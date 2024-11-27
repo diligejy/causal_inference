@@ -1,0 +1,2 @@
+1. [Reflection paper on use of real-world data in non interventional studies to generate real-world evidence](https://www.ema.europa.eu/en/documents/scientific-guideline/reflection-paper-use-real-world-data-non-interventional-studies-generate-real-world-evidence_en.pdf)
+    - [Note](./Note/01_use_of_real_world_data_in_non_interventional_studies_to_generate_real_world_evidence.md)
